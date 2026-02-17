@@ -1,17 +1,41 @@
-<h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">A passionate computer engineer from Turkey</h3>
+# Hi, I'm Eren Terakye 👋
 
-- 🌱 I’m currently learning **machine learning, computer networking, mobile development, operating systems, mobile programming, computer architecture**
+**3rd Year Computer Engineering Student | Eskişehir Osmangazi Üniversitesi** | 📍 Turkey | 🎓 GPA: 3.10
 
-- 📫 How to reach me **erenterakye@gmail.com**
+📧 [erenterakye@gmail.com](mailto:erenterakye@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/erenterakye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenterakye" height="30" width="40" /></a>
-<a href="https://kaggle.com/erenterakye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erenterakye" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/erenterakye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="erenterakye" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/erenterakye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erenterakye" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🔭 Professional Objective
+I am an aspiring engineer dedicated to mastering the core principles of computer science. I am actively seeking **Summer 2026 Internship** opportunities across various technical domains, including Software Development, Mobile Engineering, and AI/Data-driven roles.
+
+**Spring 2026 Academic Focus:**
+* **Systems & Infrastructure:** Operating Systems, Computer Architecture, Computer Networks.
+* **Development & AI:** Machine Learning, Mobile Programming.
+
+**Certifications:**
+* ✅ **Elements of AI** — University of Helsinki (Completed)
+* 📖 **Building AI** — University of Helsinki (Specialized Study / In Progress)
+
+---
+
+### 🛠 Technical Proficiency
+
+**Languages & Core**
+* ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) **Python** — Data Analysis & Machine Learning
+* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) **C++** — Systems Programming & Algorithms
+* ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) **C#** — Application Development
+* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) **JavaScript** — Web Logic & Scripting
+
+**Tools & Frameworks**
+* ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) **Pandas/NumPy** — Data Manipulation
+* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) **React/Node.js** — Full-stack Development
+* ![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) **SQL Server** — Database Management
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) **Git** — Version Control
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/erenterakye)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://www.leetcode.com/erenterakye)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:erenterakye@gmail.com)
