@@ -3,6 +3,7 @@
 **3rd Year Computer Engineering Student | Eskişehir Osmangazi Üniversitesi** | 📍 Turkey | 🎓 GPA: 3.10
 
 📧 [erenterakye@gmail.com](mailto:erenterakye@gmail.com)
+
 🌐 [erenterakye.com](https://erenterakye.com)
 
 ---
